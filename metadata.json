@@ -1,0 +1,6 @@
+{
+  "name": "Quarterly Sales Intelligence & Revenue Analytics",
+  "description": "Upload sales CSV data, explore revenue charts and tables by region and quarter, and generate verified AI summaries of Q2 to Q3 changes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
